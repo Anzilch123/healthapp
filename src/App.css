@@ -1,0 +1,156 @@
+
+@import url("https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.1/font/bootstrap-icons.css");
+.relative{
+  position: relative;
+}
+.absolute{
+  position: absolute;
+  top: 150px;
+  left: 30px;
+
+}
+.head{
+  margin-top: 30px;
+  font-family: 'Times New Roman', Times, serif;
+  font-weight: 400;
+ color:gold;
+}
+
+
+.absolute1{
+  position: absolute;
+ margin-top: -180px;
+  left: 570px;
+  border-radius: 15px;
+}
+.navbar{
+  background-color: gold;
+  height: 170px;
+}
+.card{
+  top: 5px;   
+display: flex;
+justify-content:space-between;
+height: 300px;
+
+
+}
+.absolute5{
+  left: 110px;
+  top: 68px;
+}
+.absolute2{
+  left: 440px;
+  top: -338px;
+}
+
+.absolute3{
+  left: 770px;
+  top: -743px;
+}
+
+.absolute4{
+  left: 1100px;
+  top: -1150px;
+}
+
+.button{
+  right: 20px;
+}
+
+.absolute6{
+bottom: 400px;
+}
+.absolute7{
+  text-align: center;
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  font-style: italic;
+ font-size: small;
+ margin-top: -560px;
+ color:gold;
+}
+.absolute8{
+  width: 1500px;
+  margin-left: 20px;
+margin-top: 100px;
+display: flex;
+font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+font-style: italic;
+font-size: small;
+color:gold;
+
+}
+
+.absolute0{
+  margin-left: 40px;
+}
+
+.absolute00{
+  margin-left: 60px;
+}
+.a{
+  color: rgb(234, 0, 246);
+justify-content: center;
+font-size: larger;
+margin-left: 120px;
+
+}
+.b{
+  font-size: larger;
+  margin-left: 20px;
+  color: rgb(234, 0, 246);
+}
+.c{
+  font-size: larger;
+  margin-left: 60px;
+  color: rgb(234, 0, 246);
+}
+.logo{
+  margin-top: 30px;
+  display: flex;
+  justify-content: center;
+  justify-content: space-evenly;
+
+}
+.l1{
+  margin-left: -10px;
+  
+}
+.l2{
+  margin-right: 10px;
+  
+}
+.l3{
+  margin-right: 10px;
+}
+.bar{
+  margin-left: 180px;
+}
+#dropdown-basic-button{
+  margin-top: 100px;
+
+  margin-right: -10px;
+}
+.title3{
+  margin-right: -40px;
+}
+.absolute11{
+  top: -1100px;
+  left: 110px;
+}
+.absolute12{
+  top: -1505px;
+  left: 440px;
+}
+.absolute13{
+  top: -1911px;
+  left: 770px;
+}
+.absolute14{
+  top: -2317px;
+  left: 1100px;
+}
+.cd{
+  
+  align-items: center;
+}
